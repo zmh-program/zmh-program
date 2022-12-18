@@ -8,7 +8,7 @@ Hi, I’m @zmh-program, a boy who borned in 2009.
 I like to create some games by myself with DL, RL
 
 ## Good at
-1. Network Security (TCP/IP: tcp/udp socket server; http/websocket; imcp; )
+1. Network Security (TCP/IP: tcp/udp socket server; http/websocket; icmp; )
 2. Front-End (including html/css/js, bootstrap, jQuery, Vue)
 3. Back-End (like Django, Flask)
 4. PyQt5 && PySide2
