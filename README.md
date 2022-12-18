@@ -14,15 +14,8 @@ I like to create some games by myself with DL, RL
 4. PyQt5 && PySide2
 5. Arduino && c
 6. Database
-  - SQL (like MySQL, SQLite)
-  - NoSQL (like redis)
+    - SQL (like MySQL, SQLite)
+    - NoSQL (like redis)
 
 ## Language
-- `Pascal`
-- `html/css/js(x)`
-- `c`
-- `python`
-- `arduino`
-- `vb script`
-- `nodeJS`
-- emmm... `commandline`?
+- `Pascal`, `html/css/js(x)`, `c`, `python`, `arduino`, `vb script`, `nodeJS` and emmm... `commandline`?
