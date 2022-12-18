@@ -3,7 +3,7 @@ Hi, I’m @zmh-program, a boy who borned in 2009.
 ## From
 #### Shandong Donying, **China**
 ## Favorite
-`##### Machine Learning` (Deep Learning, Reinforcement Learing)
+##### `Machine Learning` (Deep Learning, Reinforcement Learing)
 
 I like to create some games by myself with DL, RL
 
