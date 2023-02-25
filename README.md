@@ -1,7 +1,7 @@
 👋 Hi, I’m @zmh-program, a boy who borned in 2009. 🙋‍♂️
 
-<img src="https://codeline-statistic.zmh-program.repl.co/user/zmh-program" width="60%" alt="code-stats"></img><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="60%" alt="commit-stats"></img>
+<img src="https://codeline-statistic.zmh-program.repl.co/user/zmh-program" width="600px" alt="code-stats"></img><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
 
 ## 🌏 From
 #### Shandong Donying, **China**
@@ -10,14 +10,14 @@
   - 👉 I like to create some games by myself with DL, RL
 
 ## ♥ Like
-1. 🛡 Network Security (TCP/IP: tcp/udp socket server; http/websocket; icmp; )
+1. 🛡 Network Security (OSI, tcp/udp/rpc/http/websocket/icmp/quic)
 2. 🌠 Front-End (including html/css/js, bootstrap, jQuery, Vue)
 3. ☄ Back-End (like Django, Flask)
 4. 🚤 PyQt5 && PySide2
 5. ✈ Arduino && c
 6. Database
     - 🌊 SQL (like MySQL, SQLite)
-    - ❄ NoSQL (like redis)
+    - ❄ NoSQL (like redis, memcached)
 
 ## 🌌 Languages
 - 🛥 `Pascal`, `html/css/js(x)`, `c`, `python`, `arduino`, `vb script`, `nodeJS` and emmm... `commandline`?
