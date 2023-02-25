@@ -1,6 +1,8 @@
 👋 Hi, I’m @zmh-program, a boy who borned in 2009. 🙋‍♂️
 
-![code statistic](https://codeline-statistic.zmh-program.repl.co/user/zmh-program)
+<img src="https://codeline-statistic.zmh-program.repl.co/user/zmh-program" width="60%" alt="code-stats"></img><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="60%" alt="commit-stats"></img>
+
 ## 🌏 From
 #### Shandong Donying, **China**
 ## 🗺 Favorite
