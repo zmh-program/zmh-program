@@ -1,6 +1,6 @@
 👋 Hi, I’m @zmh-program, a boy who borned in 2009. 🙋‍♂️
 
-<img src="https://codeline-statistic.zmh-program.repl.co/user/zmh-program" width="600px" alt="code-stats"></img><br>
+<img src="https://stats.deeptrain.net/user/zmh-program" width="600px" alt="code-stats"></img><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
 
 ## 🌏 From
