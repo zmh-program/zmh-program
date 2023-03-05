@@ -32,10 +32,9 @@
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/9089/9089814.png" alt="c">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python">
   <img width="46" height="46" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django">
-  <img width="46" height="46" src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask">
+  <img width="46" height="46" src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask" background-color="white">
   <img width="46" height="46" src="https://www.tornadoweb.org/en/stable/_static/favicon.ico" alt="tornado">
   <img width="46" height="46" src="https://pytorch.org//favicon.ico" alt="pytorch">
-  <img width="46" height="46" src="" alt="tensorflow">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/8304/8304595.png" alt="vb">
   <img width="46" height="46" src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="arduino">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/7207/7207229.png" alt="cmd">
