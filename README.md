@@ -12,23 +12,30 @@
 ## ♥ Like
 1. 🛡 Network Security (OSI, tcp/udp/rpc/tls/ssl/http/websocket/icmp/quic)
 2. 🌠 Front-End (including html/css/js, bootstrap, layui, element, three, jQuery, Vue, PyQt5)
-3. ☄ Back-End (like django, flask, tornado, express)
+3. ☄ Back-End (like django, flask, tornado, express, nuxt)
 4. ✈ Arduino && c
 5. Database
     - 🌊 SQL (like MySQL, SQLite)
     - ❄ NoSQL (like redis, memcached)
 
 ## 🌌 Languages
-- 🛥 `Pascal`, `html/css/js(x)`, `c`, `python`, `arduino`, `vb script`, `nodeJS` and emmm... `commandline`?
+- 🛥 `Pascal`, `html/css/js/ts`, `c`, `python`, `arduino`, `vb script`, `nodeJS` and emmm... `commandline`?
 <p>
   <img width="46" height="46" src="/images/pascal.ico" alt="Pascal">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css">
   <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="js">
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="ts">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodeJS">
   <img width="46" height="46" src="https://vuejs.org/images/logo.png" alt="vueJS">
+  <img width="46" height="46" src="https://nuxt.com/icon.png" alt="nuxtJS">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/9089/9089814.png" alt="c">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python">
+  <img width="46" height="46" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django">
+  <img width="46" height="46" src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask">
+  <img width="46" height="46" src="https://www.tornadoweb.org/en/stable/_static/favicon.ico" alt="tornado">
+  <img width="46" height="46" src="https://pytorch.org//favicon.ico" alt="pytorch">
+  <img width="46" height="46" src="" alt="tensorflow">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/8304/8304595.png" alt="vb">
   <img width="46" height="46" src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="arduino">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/7207/7207229.png" alt="cmd">
