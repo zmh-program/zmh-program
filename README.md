@@ -3,25 +3,35 @@
 <img src="https://stats.deeptrain.net/user/zmh-program" width="600px" alt="code-stats"></img><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
 
-## 🌏 From
-#### Shandong Donying, **China**
 ## 🗺 Favorite
-##### 🔥 `Machine Learning` (Deep Learning, Reinforcement Learing)
-  - 👉 I like to create some games by myself with DL, RL
+#### 🔥 `Machine Learning` (Deep Learning, Reinforcement Learing)
 
 ## ♥ Like
-1. 🛡 Network Security (OSI, tcp/udp/rpc/tls/ssl/http/websocket/icmp/quic)
-2. 🌠 Front-End (including html/css/js, bootstrap, layui, element, three, jQuery, Vue, PyQt5)
-3. ☄ Back-End (like django, flask, tornado, express, nuxt)
-4. ✈ Arduino && c
-5. Database
-    - 🌊 SQL (like MySQL, SQLite)
-    - ❄ NoSQL (like redis, memcached)
+#### 1. 🛡 Network Security (DDoS, CC, UDP FLOOD, CDN, CSRF, XSS)
+#### 2. 🌠 Frontend 
+  - Native html/css/js, jQuery, Bootstrap
+  -  Vue, React
+  -  Tk, PyQt5, Kivy
+#### 3. ☄ Backend
+  - Go
+  - Django, Flask, Tornado (Python)
+  - Express, Nuxt (nodeJS)
+  - TCP/UDP Socket (C, Python)
+  - MySQL, SQLite
+  - Redis, Memcached
+  - RabbitMQ
+
+#### 4. ✈ Hardware
 
 ## 🌌 Languages
-- 🛥 `Pascal`, `html/css/js/ts`, `c`, `python`, `arduino`, `vb script`, `nodeJS` and emmm... `commandline`?
-<p>
+<p align="center">
   <img width="46" height="46" src="/images/pascal.ico" alt="Pascal">
+  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/9089/9089814.png" alt="c">
+  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python">
+  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/8304/8304595.png" alt="vbs">
+  <img width="46" height="46" src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="arduino">
+  <img width="46" height="46" src="https://pytorch.org//favicon.ico" alt="pytorch">
+  <br>
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" alt="html">
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css">
   <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="js">
@@ -29,13 +39,4 @@
   <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodeJS">
   <img width="46" height="46" src="https://vuejs.org/images/logo.png" alt="vueJS">
   <img width="46" height="46" src="https://nuxt.com/icon.png" alt="nuxtJS">
-  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/9089/9089814.png" alt="c">
-  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="python">
-  <img width="46" height="46" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django">
-  <img width="46" height="46" src="https://flask.palletsprojects.com/en/2.2.x/_static/flask-icon.png" alt="flask" background-color="white">
-  <img width="46" height="46" src="https://www.tornadoweb.org/en/stable/_static/favicon.ico" alt="tornado">
-  <img width="46" height="46" src="https://pytorch.org//favicon.ico" alt="pytorch">
-  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/8304/8304595.png" alt="vb">
-  <img width="46" height="46" src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico" alt="arduino">
-  <img width="46" height="46" src="https://cdn-icons-png.flaticon.com/128/7207/7207229.png" alt="cmd">
 </p>
