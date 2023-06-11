@@ -13,9 +13,10 @@
   -  Vue, React
   -  Tk, PyQt5, Kivy
 #### 3. ☄ Backend
-  - Go
+  - Gin, Iris (Golang)
   - Django, Flask, Tornado (Python)
   - Express, Nuxt (nodeJS)
+  - PHP
   - TCP/UDP Socket (C, Python)
   - MySQL, SQLite
   - Redis, Memcached
