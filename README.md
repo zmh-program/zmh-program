@@ -10,15 +10,15 @@
 #### 1. 🛡 Network Security (DDoS, CC, UDP FLOOD, CDN, CSRF, XSS)
 #### 2. 🌠 Frontend 
   - Native html/css/js, jQuery, Bootstrap
-  -  Vue, React
+  -  Vue, React, TypeScript, Less, Scss
   -  Tk, PyQt5, Kivy
 #### 3. ☄ Backend
-  - Gin, Iris, Fiber (Golang)
+  - Fasthttp, Gin, Iris, Fiber (Golang)
   - Django, Flask, Tornado, FastAPI (Python)
   - Express, Next.js, Nuxt.js (nodeJS)
   - PHP
   - TCP/UDP Socket (C, Python)
-  - MySQL, SQLite
+  - MySQL, PostgreSQL, SQLite
   - Redis, Memcached
   - RabbitMQ
 
