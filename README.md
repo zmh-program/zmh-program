@@ -1,4 +1,4 @@
-👋 Hi, I’m @zmh-program, a boy who borned in 2009. 🙋‍♂️
+👋 Hi, I’m [@zmh-program](https://zmh-program.site), a boy who borned in 2009. 🙋‍♂️
 
 <img src="https://stats.deeptrain.net/user/zmh-program?t=20230906" width="600px" alt="code-stats"></img><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
@@ -7,12 +7,11 @@
 #### 🔥 `Machine Learning` (Deep Learning, Reinforcement Learing)
 
 ## ♥ Like
-#### 1. 🛡 Network Security (DDoS, CC, UDP FLOOD, CDN, CSRF, XSS)
-#### 2. 🌠 Frontend 
+#### 1. 🌠 Frontend / App
   - Native html/css/js, jQuery, Bootstrap
   -  Vue, React, TypeScript, Less, Scss
   -  Tk, PyQt5, Kivy
-#### 3. ☄ Backend
+#### 2. ☄ Backend
   - Fasthttp, Gin, Iris, Fiber (Golang)
   - Django, Flask, Tornado, FastAPI (Python)
   - Express, Next.js, Nuxt.js (nodeJS)
@@ -22,6 +21,7 @@
   - Redis, Memcached
   - RabbitMQ
 
+#### 3. 🛡 Network Security
 #### 4. ✈ Hardware
 
 ## 👨‍💻 Team
