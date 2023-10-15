@@ -24,6 +24,13 @@
 
 #### 4. ✈ Hardware
 
+## 👨‍💻 Team
+- [LightXi](https://github.com/LightXi) Team (Creator)
+- [Deeptrain](https://github.com/Deeptrain-Community) Team (Creator)
+- [Fycdn](https://github.com/fycdn) Team (Creator)
+- [QW GPT](https://github.com/qwgpt) Team (Member)
+- [Yinghuo Tech.](https://github.com/yinghuo2022) Team (Member)
+
 ## 🌌 Languages
 <p align="center">
   <img width="46" height="46" src="/images/pascal.ico" alt="Pascal">
