@@ -1,4 +1,4 @@
-👋 Hi, I’m [@zmh-program](https://zmh-program.site), a boy who borned in 2009. 🙋‍♂️
+👋 Hi, I’m [@zmh-program](https://zmh-program.site), a boy who was born in 2009. 🙋‍♂️
 
 <img src="https://stats.deeptrain.net/user/zmh-program?t=20230906" width="600px" alt="code-stats"></img><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
