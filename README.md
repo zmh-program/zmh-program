@@ -24,4 +24,4 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 ### Relationship
 - [@Sh1n3zZ](https://github.com/Sh1n3zZ)
 - [@Deeptrain](https://github.com/Deeptrain-Community) (Creator)
-[@LightXi](https://github.com/LightXi) (CTO)
+- [@LightXi](https://github.com/LightXi) (CTO)
