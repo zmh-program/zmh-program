@@ -20,3 +20,8 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 <img src="https://stats.deeptrain.net/user/zmh-program?t=20240213" width="600px" alt="code-stats"></img><br>
 <img src="https://stats.deeptrain.net/user/Deeptrain-Community?t=20240213" width="600px" alt="code-stats"></img><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-program" width="600px" alt="commit-stats"></img>
+
+### Relationship
+- [@Sh1n3zZ](https://github.com/Sh1n3zZ)
+- [@Deeptrain](https://github.com/Deeptrain-Community) (Creator)
+[@LightXi](https://github.com/LightXi) (CTO)
