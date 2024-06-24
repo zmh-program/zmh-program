@@ -1,12 +1,25 @@
-name: Compact display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.compact.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: >-
-    polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-    scripter, packager, explorer, infographile, manager
-  plugin_achievements_display: compact
-  plugin_achievements_threshold: X
+name: Create Achievement Image
+on:
+  push:
+    branches: [ master ]
+    
+jobs:
+  generation:
+    name: Compact display
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
