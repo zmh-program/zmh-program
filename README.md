@@ -5,7 +5,7 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
 
 ### 🔥 Achievement
-[![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/2256)](https://trendshift.io/repositories/2256)
+[![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
 
 [![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
 
