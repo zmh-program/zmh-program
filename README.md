@@ -4,6 +4,11 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 ### ⚒ Skills
 🥪 **Front End** / 🥗 **Backend** / 🍊 **Network Security** / 🍑 **Machine Learning**
 
+### 🔥 Achievement
+[![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/2256)](https://trendshift.io/repositories/2256)
+
+[![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
+
 ### 🍉 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,lua,nodejs,php,react,next,vue,nuxt,angular,express,tailwindcss,redux,bootstrap,html,css,js,jquery,ts,less,scss,fastapi,django,flask,pytorch,tensorflow,opencv,qt,electron,tauri,threejs)](https://skillicons.dev)
 
