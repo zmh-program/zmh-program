@@ -27,6 +27,5 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 
 ### 🙌 Relation Ship
 
-[LightXi Inc.](https://github.com/LightXi) (Co-Founder & CTO)
-
-[@Sh1n3zZ](https://github.com/Sh1n3zZ) (Girl Friend)
+- [LightXi Inc.](https://github.com/LightXi) (Co-Founder & CTO)
+- [Sh1n3zZ](https://github.com/Sh1n3zZ) (Girl Friend)
