@@ -12,7 +12,6 @@ CTO @LightXi Inc. / Open Source Enthusiast / A boy born in 2009 🙋‍♂️
 
 ### 🔥 Achievement
 [![Chat Nio: #1 Repo Of The Day](https://trendshift.io/api/badge/repositories/6369)](https://trendshift.io/repositories/6369)
-
 [![Spark Lab S1 #1 Place](https://spark-lab.city/api/badge?session=1&prize=1)](https://spark-lab.city)
 
 [![Github Achievements](metrics.plugin.achievements.compact.svg)](https://github.com/lowlighter/metrics)
