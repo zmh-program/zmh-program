@@ -2,3 +2,4 @@
 [![WeChat](https://img.shields.io/badge/-zmh--program-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./)
 [![email](https://img.shields.io/badge/-zmh@lightxi.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zmh@lightxi.com)
 
+I've mastered nothing, yet code rhythm echoes for a lifetime.
